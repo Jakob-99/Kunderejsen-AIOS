@@ -9,6 +9,7 @@ attributes:
     bright_sage: "#8FCB4B"     # CTA-knapper, badges, prishighlights
     ink: "#12190F"             # primær brødtekst
     canvas: "#FFFFFF"          # baggrund / tekst på grøn
+    warm_cream: "#F6F5F1"      # sekundær baggrund til hero/produktbilleder — brunlig-cremet, ikke grøn-tonet
     dark_mode:
       deep_sage: "#8FBE7F"
       bright_sage: "#A7D95E"
