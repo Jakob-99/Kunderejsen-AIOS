@@ -1,11 +1,12 @@
 id: figurio
 type: company
 name: Figurio
-summary: Dansk virksomhed der laver personaliserede/custom figurer som gaver, solgt via app.figurio.dk.
+summary: Dansk virksomhed der laver personlige 3D-printede figurer ud fra fotos, solgt via figurio.dk / app.figurio.dk.
 attributes:
-  website: app.figurio.dk
+  website: figurio.dk / app.figurio.dk
   market: Danmark
-  category: Gaveindustri / personaliserede produkter
+  category: Gaveindustri / personaliserede 3D-printede produkter
+  cvr: "46688007"
   mission: null        # TODO
   stage: null          # TODO — opstart / vækst / etableret
 status: todo
