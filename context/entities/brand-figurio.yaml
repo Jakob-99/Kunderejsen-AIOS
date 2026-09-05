@@ -26,7 +26,7 @@ attributes:
     legal_copy: "0.75rem / 400"
   shapes: Bløde, flydende bølgeformer
   texture: Synlig, ru papir-grain
-  typography: Centreret, Bookman-lignende serif (hero); grotesk skala i digitale brand-kit-artifacts
+  typography: Centreret, Bookman-lignende serif (hero); grotesk skala i digitale brand-kit-artifacts — AG1's rigtige fonte er TWK Lausanne (grotesk) + JHA Times Now (serif), begge kommercielle/ikke på Google Fonts, så brand-kit-artifacts bruger "Schibsted Grotesk" som nærmeste gratis erstatning for TWK Lausanne
   mark: Asymmetrisk kryds-mærke i hjørne
   tone_of_voice: Varm og øjeblikkelig, personalisering frem for teknik, gaveorienteret, legende frem for højtidelig — foreløbig læsning, ikke formelt dokumenteret
   usage: Design-arbejde for Figurio (sociale opslag, plakater, baggrunde) følger denne stil — se figurio-design-skillet for konkret produktion af assets i dette look
