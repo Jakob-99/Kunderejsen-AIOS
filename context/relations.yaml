@@ -1,0 +1,21 @@
+# Global relationsliste. Se entities/_schema.md for format og regler.
+
+- from: figurio
+  type: offers
+  to: product-custom-figur
+
+- from: figurio
+  type: has_brand
+  to: brand-figurio
+
+- from: figurio
+  type: operates_in
+  to: market-denmark
+
+- from: product-custom-figur
+  type: targets
+  to: customer-segment-gift-buyers
+
+- from: customer-segment-gift-buyers
+  type: located_in
+  to: market-denmark

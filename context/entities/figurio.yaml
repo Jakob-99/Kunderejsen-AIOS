@@ -1,0 +1,11 @@
+id: figurio
+type: company
+name: Figurio
+summary: Dansk virksomhed der laver personaliserede/custom figurer som gaver, solgt via app.figurio.dk.
+attributes:
+  website: app.figurio.dk
+  market: Danmark
+  category: Gaveindustri / personaliserede produkter
+  mission: null        # TODO
+  stage: null          # TODO — opstart / vækst / etableret
+status: todo

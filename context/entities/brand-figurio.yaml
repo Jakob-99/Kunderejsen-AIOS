@@ -1,0 +1,12 @@
+id: brand-figurio
+type: brand
+name: Figurio brandidentitet
+summary: Visuelt udtryk brugt i design-materiale for Figurio.
+attributes:
+  color_palette: Blød, kornet gradient fra cremehvid til salvie-grøn
+  shapes: Bløde, flydende bølgeformer
+  texture: Synlig, ru papir-grain
+  typography: Centreret, Bookman-lignende serif
+  mark: Asymmetrisk kryds-mærke i hjørne
+  tone_of_voice: null   # TODO
+status: todo

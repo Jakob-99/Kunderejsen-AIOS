@@ -1,0 +1,11 @@
+id: product-custom-figur
+type: product
+name: Custom figur
+summary: Personaliseret figur designet ud fra kundens eget billede/idé, bestilt via app.figurio.dk.
+attributes:
+  materials: null       # TODO
+  sizes: null           # TODO
+  price_range: null     # TODO
+  order_flow: null      # TODO — upload billede / konfigurator / andet
+  production: null      # TODO — in-house / partnerproduktion, leveringstid
+status: todo

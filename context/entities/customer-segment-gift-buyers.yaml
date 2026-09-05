@@ -1,0 +1,8 @@
+id: customer-segment-gift-buyers
+type: customer_segment
+name: Gavekøbere
+summary: Personer der køber en custom figur som gave til andre eller sig selv.
+attributes:
+  occasions: null    # TODO — fødselsdag, bryllup, kæledyr, mv.
+  demographics: null # TODO
+status: todo
