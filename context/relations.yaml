@@ -5,6 +5,10 @@
   to: product-custom-figur
 
 - from: figurio
+  type: offers
+  to: product-pet-figur
+
+- from: figurio
   type: has_brand
   to: brand-figurio
 
@@ -13,6 +17,10 @@
   to: market-denmark
 
 - from: product-custom-figur
+  type: targets
+  to: customer-segment-gift-buyers
+
+- from: product-pet-figur
   type: targets
   to: customer-segment-gift-buyers
 

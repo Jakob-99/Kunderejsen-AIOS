@@ -2,11 +2,12 @@
 
 ## Hvad er Figurio
 
-Figurio (app.figurio.dk) er en dansk virksomhed, der laver **custom figurer som gaver** — personaliserede figurer designet ud fra kundens eget billede/idé.
+Figurio (figurio.dk / app.figurio.dk) er en dansk virksomhed, der laver **personlige 3D-printede figurer ud fra fotos** — som gaver til fødselsdage, bryllupper, medarbejderanerkendelse m.m.
 
-- **Website**: app.figurio.dk
+- **Website**: figurio.dk / app.figurio.dk
 - **Marked**: Danmark
-- **Kategori**: Gaveindustri / personaliserede produkter
+- **Kategori**: Gaveindustri / personaliserede 3D-printede produkter
+- **CVR**: 46688007
 
 ## Mission / vision
 
@@ -14,7 +15,7 @@ Figurio (app.figurio.dk) er en dansk virksomhed, der laver **custom figurer som 
 
 ## Kort forretningsbeskrivelse
 
-> TODO — hvordan tjener Figurio penge, hvad er kunderejsen fra besøg til modtaget figur, hvem laver figurerne (in-house / partnere / produktion).
+Kunden uploader et foto, får med det samme en 3D-forhåndsvisning, tilpasser sokkeltekst (inkl. æ/ø/å) og godkender modellen, hvorefter figuren 3D-printes i hvid PLA-plast og leveres. Se [`company/products-services.md`](products-services.md) for detaljeret flow og priser.
 
 ## Status / stadie
 
