@@ -28,4 +28,6 @@ attributes:
   typography: Centreret, Bookman-lignende serif (hero); grotesk skala i digitale brand-kit-artifacts
   mark: Asymmetrisk kryds-mærke i hjørne
   tone_of_voice: Varm og øjeblikkelig, personalisering frem for teknik, gaveorienteret, legende frem for højtidelig — foreløbig læsning, ikke formelt dokumenteret
+  usage: Design-arbejde for Figurio (sociale opslag, plakater, baggrunde) følger denne stil — se figurio-design-skillet for konkret produktion af assets i dette look
+  sources: null   # TODO — link til logo-filer, formel brand guide, skrifttype-filer
 status: todo   # farvekoder og tone_of_voice er arbejdsværdier, ikke bekræftet mod officielle brand-assets
