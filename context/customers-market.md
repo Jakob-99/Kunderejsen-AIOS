@@ -17,7 +17,3 @@ Danmark (jf. app.figurio.dk).
 ## Kundefeedback / indsigter
 
 > TODO — kendte pain points, ønsker, gentagne spørgsmål fra kunder.
-
-## Struktureret data
-
-Se [`entities/market-denmark.yaml`](../entities/market-denmark.yaml) og [`entities/customer-segment-gift-buyers.yaml`](../entities/customer-segment-gift-buyers.yaml).

@@ -1,8 +1,0 @@
-id: market-denmark
-type: market
-name: Danmark
-summary: Primære (og pt. eneste kendte) marked for Figurio.
-attributes:
-  seasonality: null       # TODO — jul, valentine, mors/fars dag mv.
-  internationalization_plans: null   # TODO
-status: todo

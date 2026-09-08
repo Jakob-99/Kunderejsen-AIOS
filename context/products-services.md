@@ -37,7 +37,3 @@ Se priser under "Kerneprodukt" ovenfor. Løbende kampagne set på hjemmesiden: o
 ## Roadmap / kommende produkter
 
 > TODO
-
-## Struktureret data
-
-Se [`entities/product-custom-figur.yaml`](../entities/product-custom-figur.yaml).

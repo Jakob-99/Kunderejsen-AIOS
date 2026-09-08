@@ -1,3 +1,7 @@
-# Kunderejsen-AIOS
+# Kreativ-kontekst
 
-Før du arbejder i dette repo, læs [`context/README.md`](context/README.md) — det er indgangspunktet til virksomhedens context-wiki (info om Figurio: overview, brand, produkter, organisation, kunder/marked, samt en maskinlæsbar entity/relations-graf).
+Projekt til markedsføring og salgsmateriale for Figurio.
+
+- [`context/`](context/) — virksomhedsviden i almindelige markdown-filer (overview, produkter/services, organisation, kunder/marked, ordliste, processer). Læs de filer der er relevante for opgaven.
+- [`brand-guideline/brand-guideline.md`](brand-guideline/brand-guideline.md) — brand guideline: farver, typografi, tone of voice, form/tekstur/mærke. Læs denne før alt design- og tekstarbejde.
+- [`assets/`](assets/) — logoer, produktbilleder og andet materiale til markedsføring og salg.
