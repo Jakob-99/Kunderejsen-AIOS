@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="da">
+<head>
+<meta charset="UTF-8" />
+<title>Figurio — Annonce: Startpakke</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+  :root{
+    --deep-sage:#3E5E3A;
+    --bright-sage:#8FCB4B;
+    --ink:#12190F;
+    --canvas:#FFFFFF;
+    --warm-cream:#F6F5F1;
+    --border:#DAE1D3;
+    --mono-tag:#63715A;
+  }
+
+  *{box-sizing:border-box;margin:0;padding:0;}
+
+  body{
+    width:1080px;
+    height:1080px;
+    background:var(--warm-cream);
+    font-family:'Schibsted Grotesk',sans-serif;
+    color:var(--ink);
+    position:relative;
+    overflow:hidden;
+    display:flex;
+    flex-direction:column;
+  }
+
+  /* ---- Headline block ---- */
+  .headline{
+    padding:56px 64px 0;
+    flex:none;
+  }
+  .headline h1{
+    font-size:3.2rem;
+    font-weight:800;
+    line-height:1.05;
+    letter-spacing:-0.01em;
+    max-width:640px;
+  }
+  .subline{
+    margin-top:18px;
+    font-size:1.15rem;
+    font-weight:600;
+    display:flex;
+    align-items:center;
+    gap:10px;
+    flex-wrap:wrap;
+  }
+  .free-tag{
+    background:var(--bright-sage);
+    color:var(--ink);
+    font-weight:800;
+    padding:3px 10px;
+    border-radius:3px;
+    font-size:1.05rem;
+  }
+
+  /* ---- Save badge ---- */
+  .save-badge{
+    position:absolute;
+    top:44px;
+    right:56px;
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    background:var(--deep-sage);
+    color:var(--canvas);
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+    transform:rotate(8deg);
+    line-height:1.05;
+  }
+  .save-badge .label{
+    font-size:.8rem;
+    font-weight:600;
+    text-transform:uppercase;
+    letter-spacing:.04em;
+  }
+  .save-badge .pct{
+    font-size:2.3rem;
+    font-weight:800;
+    margin:2px 0;
+  }
+  .save-badge .fine{
+    font-size:.62rem;
+    font-weight:500;
+    opacity:.85;
+    max-width:100px;
+  }
+
+  /* ---- Product bundle row ---- */
+  .bundle{
+    flex:1;
+    padding:0 64px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:32px;
+  }
+
+  .item{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    text-align:center;
+  }
+  .item .item-label{
+    font-family:'IBM Plex Mono',monospace;
+    text-transform:uppercase;
+    letter-spacing:.08em;
+    font-size:.75rem;
+    color:var(--mono-tag);
+    margin-bottom:10px;
+  }
+  .item .price{
+    font-size:.9rem;
+    margin-bottom:14px;
+  }
+  .price .old{
+    text-decoration:line-through;
+    color:var(--mono-tag);
+    margin-right:6px;
+  }
+  .price .free{
+    color:var(--deep-sage);
+    font-weight:700;
+  }
+
+  .item img{
+    border-radius:8px;
+    border:1px solid var(--border);
+    display:block;
+  }
+
+  .item.main .item-label{
+    font-size:.85rem;
+  }
+  .item.main img{
+    width:400px;
+    height:400px;
+    object-fit:cover;
+  }
+
+  .item.side img{
+    width:230px;
+    height:230px;
+    object-fit:cover;
+  }
+
+  .plus-sign{
+    font-size:2.4rem;
+    font-weight:300;
+    color:var(--mono-tag);
+    align-self:center;
+    margin-top:36px;
+  }
+
+  /* ---- CTA ---- */
+  .cta-wrap{
+    flex:none;
+    padding:0 64px 28px;
+    display:flex;
+    justify-content:center;
+  }
+  .cta{
+    background:var(--bright-sage);
+    color:var(--ink);
+    font-weight:700;
+    font-size:1.15rem;
+    text-transform:uppercase;
+    letter-spacing:.02em;
+    padding:20px 48px;
+    border-radius:6px;
+    display:inline-flex;
+    align-items:center;
+    gap:10px;
+  }
+
+  /* ---- Legal ---- */
+  .legal{
+    flex:none;
+    padding:0 64px 36px;
+    font-size:.68rem;
+    color:var(--mono-tag);
+    line-height:1.4;
+  }
+</style>
+</head>
+<body>
+
+  <div class="headline">
+    <h1>Få din Figurio<br>Startpakke</h1>
+    <div class="subline">
+      Personfigur + graveret sokkeltekst <span class="free-tag">GRATIS</span>
+    </div>
+  </div>
+
+  <div class="save-badge">
+    <div class="label">Spar</div>
+    <div class="pct">25%</div>
+    <div class="fine">på din første figur</div>
+  </div>
+
+  <div class="bundle">
+    <div class="item side">
+      <div class="item-label">Kæledyrsfigur</div>
+      <div class="price"><span class="old">199 kr</span><span class="free">Gratis</span></div>
+      <img src="../product-shots/kaeledyrsfigur-studioshot-01.png" alt="Kæledyrsfigur" />
+    </div>
+
+    <div class="plus-sign">+</div>
+
+    <div class="item main">
+      <div class="item-label">Personfigur</div>
+      <div class="price"><span class="old">399 kr</span></div>
+      <img src="../product-shots/personfigur-studioshot-01.png" alt="Personfigur" />
+    </div>
+
+    <div class="plus-sign">+</div>
+
+    <div class="item side">
+      <div class="item-label">Graveret sokkeltekst</div>
+      <div class="price"><span class="old">49 kr</span><span class="free">Gratis</span></div>
+      <img src="../product-shots/parfigur-bryllup-studioshot-01.png" alt="Parfigur med graveret sokkeltekst" />
+    </div>
+  </div>
+
+  <div class="cta-wrap">
+    <div class="cta">Bestil din figur →</div>
+  </div>
+
+  <div class="legal">
+    *Tilbuddet gælder nye kunder. Rabatten gælder første bestilling. Kæledyrsfigur og
+    graveret sokkeltekst er gratis ved køb af personfigur til fuld pris. Kan ikke
+    kombineres med andre rabatkoder. Se figurio.dk for fulde betingelser.
+  </div>
+
+</body>
+</html>
