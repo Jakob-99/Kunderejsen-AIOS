@@ -10,6 +10,7 @@ Læg filer i undermapper efter type, fx:
 - `product-shots/` — produktbilleder af de forskellige figurer
 - `social/` — genererede/klargjorte opslag til sociale medier
 - `ads/` — annoncebilleder og -videoer
+- `templates/` — skabeloner til gentaget indhold (opslag, annoncer, produktkort m.m.)
 - `misc/` — alt andet
 
 Opret undermapper efter behov — der er ingen fast skabelon, læg filerne der hvor de naturligt hører til.
