@@ -6,8 +6,8 @@ Rå og færdige filer til markedsføring og salgsmateriale for Figurio: logoer, 
 
 Læg filer i undermapper efter type, fx:
 
-- `logos/` — logo-filer (til lys/mørk baggrund, forskellige formater)
-- `product-photos/` — produktbilleder
+- `logos/` — logo-filer (mærke, wordmark, kombineret; til lys/mørk baggrund; forskellige formater)
+- `product-shots/` — produktbilleder af de forskellige figurer
 - `social/` — genererede/klargjorte opslag til sociale medier
 - `ads/` — annoncebilleder og -videoer
 - `misc/` — alt andet
