@@ -2,20 +2,27 @@
 
 ## Kerneprodukt
 
-Personlige 3D-printede figurer lavet ud fra kundens egne fotos, bestilt via app.figurio.dk. To produktlinjer:
+Personlige 3D-printede figurer lavet ud fra kundens egne fotos, bestilt via app.figurio.dk. Bekræftet direkte fra figurio.dk (research udført 2026-09-08) — to produktlinjer, tre muligheder:
 
-**Personfigur**
-- 1 person: 399 kr
-- 2 personer på fælles sokkel: 499 kr
+**Personer** (hovedkategori på hjemmesiden)
+- "1 person" — 399 kr
+- "2 personer" — 499 kr, står på én fælles sokkel
 - Ca. 16 cm høj
 - Sokkel kan personaliseres med tekst (understøtter æ/ø/å)
 
 **Kæledyrsfigur**
-- Small (op til 7 cm): 99 kr
-- Medium (op til 12 cm): 199 kr
-- Large (op til 16 cm): 349 kr
+- "Lille" (op til 7 cm) — 99 kr
+- "Mellem" (op til 12 cm) — 199 kr
+- "Stor" (op til 16 cm) — 349 kr
+- Selvstående figurer (ingen sokkel/platform)
 
 Materiale: hvid PLA-plast (3D-print).
+
+## Tagline / hjemmeside-copy (bekræftet fra figurio.dk)
+
+- Overskrift: "DIN PERSON. DIN FIGUR"
+- Underoverskrift: "Upload et foto, og vi laver en personlig 3D-printet figur, der ligner dig"
+- Aktuel kampagne på forsiden: "FÅ OP TIL 25% TILBUD NU!"
 
 ## Produktionsflow
 
@@ -30,7 +37,7 @@ Materiale: hvid PLA-plast (3D-print).
 
 ## Prisstruktur
 
-Se priser under "Kerneprodukt" ovenfor. Løbende kampagne set på hjemmesiden: op til 25% rabat.
+Se priser under "Kerneprodukt" ovenfor. Løbende kampagne set på hjemmesiden: "FÅ OP TIL 25% TILBUD NU!".
 
 > TODO — betalingsmetoder, evt. faste rabatkoder/perioder.
 
