@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets — never commit these
+.env
+*.env
+!.env.example
+*service-account*.json
+*credentials*.json
